@@ -65,8 +65,9 @@ A content-based movie recommendation engine using cosine similarity.
    python codesoft_task-4.py
 
 📌 For Task 4, make sure `pandas` and `sklearn` are installed:
+   ```bash
    pip install pandas scikit-learn
-
+```
 ---
 
 ## 🧠 Skills Demonstrated
