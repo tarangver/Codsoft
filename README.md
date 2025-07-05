@@ -15,8 +15,8 @@ A rule-based chatbot created using conditional statements and basic logic.
   - Responds to basic greetings and questions
   - Uses simple keyword matching logic
 
-📄 Code: codesoft_task-1.py  
-🔗 [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/codesoft_task-1.py)
+📄 Code-1: codesoft_task-1.py  [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/codesoft_task-1.py)  
+📄 Code-2: chatBOT.py  [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/Task-1_ChatBOT/chatBOT.py)
 
 ---
 
@@ -30,8 +30,8 @@ A console-based Tic-Tac-Toe game for two players.
   - Input validation and winner detection
   - Board displayed after every move
 
-📄 Code: codesoft_task-2.py  
-🔗 [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/codesoft_task-2.py)
+📄 Code-1: codesoft_task-2.py   [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/codesoft_task-2.py)  
+📄 Code-2: TicTacToe.py   [View on GitHub](https://github.com/tarangver/Codsoft/blob/main/Task-2_Tic-Tac-Toe/TicTacToe.py)
 
 ---
 
@@ -60,8 +60,10 @@ A content-based movie recommendation engine using cosine similarity.
 
 2. Run any task using Python:
    ```bash
-   python codesoft_task-1.py  
-   python codesoft_task-2.py  
+   python codesoft_task-1.py
+   python Task-1_ChatBOT/chatBOT.py  
+   python codesoft_task-2.py
+   python Task-2_Tic-Tac-Toe/TicTacToe.py  
    python codesoft_task-4.py
 
 📌 For Task 4, make sure `pandas` and `sklearn` are installed:
